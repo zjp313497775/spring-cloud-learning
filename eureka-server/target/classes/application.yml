@@ -9,6 +9,7 @@ eureka:
     fetchRegistry: false
     serviceUrl:
       defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+#      关闭保护模式。。。。。。。。。
   server:
     enableSelfPreservation: false
 
