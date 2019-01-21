@@ -10,7 +10,7 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
  * TODO
  * Created by 31349 on 2018-12-28.
  *
- * @author <a href="mailto:zhang_jianping@sicca.com.cn">zjp</a>
+ * @author <a href="mailto:313497775@qq.com">zjp</a>
  * @version V1.0
  */
 @SpringBootApplication
